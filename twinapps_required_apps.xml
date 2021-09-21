@@ -19,9 +19,9 @@
         <item>com.linkedin.android|LinkedIn</item>
         <item>com.google.android.youtube|YouTube</item>
         <item>com.imo.android.imoim|imo free video calls and chat</item>
-		<item>com.discord|Discord - Talk, Video Chat &amp; Hang Out with Friends</item>
-		<item>com.google.android.gm|Gmail</item>
-		<item>com.google.android.apps.dynamite|Google Chat</item>
+        <item>com.discord|Discord - Talk, Video Chat &amp; Hang Out with Friends</item>
+        <item>com.google.android.gm|Gmail</item>
+        <item>com.google.android.apps.dynamite|Google Chat</item>
     </string-array>
     <string-array name="twinapps_required_apps_CN">
         <item>com.google.android.gms</item>
