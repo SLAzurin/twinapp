@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="twinapps_required_apps">
+        <item>com.android.vending</item>
+        <item>com.google.android.gms</item>
+        <item>jp.naver.line.android|Line: Free Calls &amp; Messages</item>
+        <item>com.facebook.katana|Facebook</item>
+        <item>com.facebook.orca|Messenger - Text and Video Chat for Free</item>
+        <item>com.tencent.mm|WeChat</item>
+        <item>com.whatsapp|WhatsApp Messenger</item>
+        <item>com.viber.voip|Viber Messenger</item>
+        <item>com.bbm|BBM - Free Calls &amp; Messages</item>
+        <item>com.instagram.android|Instagram</item>
+        <item>com.twitter.android|Twitter</item>
+        <item>com.sina.weibo|Weibo</item>
+        <item>org.telegram.messenger|Telegram</item>
+        <item>com.pinterest|Pinterest</item>
+        <item>com.tumblr|Tumblr</item>
+        <item>com.linkedin.android|LinkedIn</item>
+        <item>com.google.android.youtube|YouTube</item>
+        <item>com.imo.android.imoim|imo free video calls and chat</item>
+		<item>com.discord|Discord - Talk, Video Chat &amp; Hang Out with Friends</item>
+		<item>com.google.android.gm|Gmail</item>
+		<item>com.google.android.apps.dynamite|Google Chat</item>
+    </string-array>
+    <string-array name="twinapps_required_apps_CN">
+        <item>com.google.android.gms</item>
+        <item>com.sina.weibo</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.tencent.WBlog</item>
+        <item>com.immomo.momo</item>
+        <item>com.qzone</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.tencent.wok</item>
+    </string-array>
+    <string-array name="twinapps_required_apps_CN_games">
+        <item>com.tencent.tmgp.speedmobile</item>
+        <item>com.tencent.tmgp.qqx5</item>
+        <item>com.tencent.tmgp.cf</item>
+        <item>com.qqgame.hlddz</item>
+        <item>com.tencent.tmgp.dpcq</item>
+        <item>com.tencent.tmgp.hjol</item>
+        <item>com.tencent.hxgame</item>
+        <item>com.qqgame.happymj</item>
+        <item>com.tencent.shootgame</item>
+        <item>com.tencent.KiHan</item>
+        <item>com.tencent.hyrzol</item>
+        <item>com.tencent.tmgp.jx3m</item>
+        <item>com.tencent.tmgp.jxqy</item>
+        <item>com.tencent.raziel</item>
+        <item>com.tencent.tmgp.wec</item>
+        <item>com.tencent.tmgp.WePop</item>
+        <item>com.tencent.yoozoo.got.wintercoming</item>
+        <item>com.tencent.tmgp.rxcq</item>
+        <item>com.tencent.tmgp.sgqyz</item>
+        <item>com.tencent.tmgp.sskgame</item>
+        <item>com.tencent.shihun.android</item>
+        <item>com.tencent.tmgp.tstl</item>
+        <item>com.tencent.peng</item>
+        <item>com.tencent.wmsj</item>
+        <item>com.tencent.tmgp.mt4</item>
+        <item>com.tencent.tmgp.ylm</item>
+        <item>com.tencent.tmgp.ffom</item>
+        <item>com.google.android.play.games</item>
+        <item>com.tencent.tmgp.pubgmhd</item>
+        <item>com.tencent.af</item>
+    </string-array>
+    <string-array name="twinapps_required_apps_games">
+        <item>com.google.android.play.games|Google Play Games</item>
+        <item>com.king.candycrushsaga|Candy Crush Saga</item>
+        <item>com.kiloo.subwaysurf|Subway Surfers</item>
+        <item>com.linecorp.LGBB2|LINE Bubble 2</item>
+        <item>com.linecorp.LGRGS|LINE Rangers</item>
+        <item>com.gameloft.android.ANMP.GloftA8HM|Asphalt 8: Airborne</item>
+        <item>com.mobile.legends|Mobile Legends: Bang Bang</item>
+        <item>com.supercell.clashroyale|Clash Royale</item>
+        <item>com.supercell.clashofclans|Clash of Clans</item>
+        <item>com.outfit7.mytalkingtomfree|My Talking Tom</item>
+        <item>com.miniclip.eightballpool|8 Ball Pool</item>
+        <item>com.fingersoft.hillclimb|Hill Climb Racing</item>
+        <item>com.outfit7.mytalkingangelafree|My Talking Angela</item>
+        <item>me.pou.app|Pou</item>
+        <item>air.com.hypah.io.slither|slither.io</item>
+        <item>net.mobigame.zombietsunami|Zombie Tsunami</item>
+        <item>com.king.candycrushsodasaga|Candy Crush Soda Saga</item>
+        <item>com.ea.game.simpsons4_row|The Simpsons</item>
+        <item>com.playrix.gardenscapes|Gardenscapes</item>
+        <item>com.blizzard.wtcg.hearthstone|Hearthstone</item>
+        <item>com.playrix.homescapes|Homescapes</item>
+        <item>com.bandoy.tongitsXtreme|TongitsXtreme</item>
+        <item>com.redkoda.chinesepokermultiplayer|Chinese Poker 2</item>
+        <item>com.hbwares.wordfeud.free|Wordfeud FREE</item>
+        <item>com.gamania.lineagem|天堂M</item>
+        <item>com.supercell.hayday|Hay Day</item>
+        <item>com.moonactive.coinmaster|Coin Master</item>
+        <item>com.devsisters.gb|Cookie Run: OvenBreak</item>
+        <item>com.nianticlabs.pokemongo|Pokémon GO</item>
+        <item>com.pearlabyss.blackdesertm|검은사막 모바일</item>
+        <item>com.nexon.maplem.global|MapleStory M</item>
+        <item>com.gravity.poring.and|RO: Idle Poring</item>
+        <item>com.netmarble.revolutionthm|Lineage2 Revolution</item>
+        <item>com.pearlabyss.blackdesertm.tw2|黑色沙漠 MOBILE</item>
+        <item>com.netease.idv.googleplay|Identity V</item>
+        <item>com.netease.idv_tw.googleplay|第五人格</item>
+        <item>com.tgc.sky.android|Sky: Children of the Light</item>
+    </string-array>
+</resources>
