@@ -13,10 +13,14 @@ https://play.google.com/store/apps/details?id=com.gogoro.goshare 裡面 id= 接�
 2. 編輯 twinapps.xml，找到 `<string-array name="twinapps_required_apps">` 這個區塊，或者是 `<string-array name="twinapps_required_apps_games">` 也行 (遊戲)，把前面查詢到的 package name 用 `<item></item>` 包起來放在該區塊裡面。以 GoShare 來說，我可以在 twinapps_required_apps 裡面最後一個項目 `<item>com.imo.android.imoim|imo free video calls and chat</item>` 後面插入 `<item>com.gogoro.goshare</item>`，然後存檔。
 
 3. 手機接上電腦利用 adb 下指令把 twinapps.xml 放在內部儲存空間： 
+```
 adb push twinapps.xml /sdcard/
+```
 
 4. 再透過 adb 指令更新應用分身的支援列表： 
+```
 adb shell am startservice -a "asus.intent.action.TWINAPPS_CDN_FILE_UPDATE" -d "file:///sdcard/twinapps.xml" --ei "ACTION" 1 com.asus.twinapps/.TwinAppsService
+```
 
 
 如果沒出現新增的項目，或者一片空白該如何處理？
