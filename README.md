@@ -19,7 +19,7 @@ adb push twinapps.xml /sdcard/
 
 4. 再透過 adb 指令更新應用分身的支援列表： 
 ```
-adb shell am startservice -a "asus.intent.action.TWINAPPS_CDN_FILE_UPDATE" -d "file:///sdcard/twinapps.xml" --ei "ACTION" 1 com.asus.twinapps/.TwinAppsService
+adb shell am startservice -a "asus.intent.action.TWINAPPS_CDN_FILE_UPDATE" -d "file:///sdcard/twinapps_required_apps.xml" --ei "ACTION" 1 com.asus.twinapps/.TwinAppsService
 ```
 
 
